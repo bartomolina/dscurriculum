@@ -10,4 +10,7 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 CRACKING the CODING INTERVIEW  
 http://www.crackingthecodinginterview.com/  
 
+Naked Statistics: Stripping the Dread from the Data
+https://www.amazon.com/gp/product/039334777X
+
 ## Twitter accounts
