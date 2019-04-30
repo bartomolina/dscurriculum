@@ -37,3 +37,10 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 - y: code cell
 - m: markdown cell
 - h: view shortcuts
+
+
+## Git cheatsheet
+- git clone URL
+- git commit -m MESSAGE
+- git push
+- git log

@@ -13,6 +13,12 @@ http://www.crackingthecodinginterview.com/
 Naked Statistics: Stripping the Dread from the Data  
 https://www.amazon.com/gp/product/039334777X
 
+## Git
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+https://www.udacity.com/course/github-collaboration--ud456
+https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
+
 ## Twitter accounts
 
 ## Medium blogs
