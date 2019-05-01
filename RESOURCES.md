@@ -1,9 +1,16 @@
 # Books, Links...
 
-4/15 Youtube playlist: https://www.youtube.com/playlist?list=PLVoXE6pv5LIg6Bnu5MAQ3xGu9DqdWXLRW
-Flatiron DS resources: https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0
-Cheatsheets: https://drive.google.com/drive/folders/1P_x-zzPy0TCWHQSKsQCvm1iiknAOFHnY
-Kaggle: https://www.kaggle.com
+4/15 Youtube playlist  
+https://www.youtube.com/playlist?list=PLVoXE6pv5LIg6Bnu5MAQ3xGu9DqdWXLRW  
+
+Flatiron DS resources  
+https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0  
+
+Cheatsheets  
+https://drive.google.com/drive/folders/1P_x-zzPy0TCWHQSKsQCvm1iiknAOFHnY  
+
+Kaggle  
+https://www.kaggle.com
 
 ## Books
 Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems  
@@ -31,6 +38,14 @@ https://www.udacity.com/course/github-collaboration--ud456
 Udacity: A Beginner’s Git and GitHub Tutorial  
 https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
 
-## Twitter accounts
+## Medium
+Netflix TechBlog  
+https://medium.com/netflix-techblog
 
-## Medium blogs
+## Posts
+
+Python at Netflix  
+https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e  
+
+Beyond Interactive: Notebook Innovation at Netflix  
+https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
