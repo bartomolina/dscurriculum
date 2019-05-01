@@ -26,3 +26,4 @@
 - `conda update --all` / `conda update -n base conda`
 - `pip3 install pandas`
 - `pip3 install matplotlib`
+- `pip install xlrd`
