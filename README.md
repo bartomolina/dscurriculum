@@ -30,7 +30,7 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 
 
 ## M1S3: Working with Pandas
-
+- Libraries
 
 
 ## M1S4: Data Cleaning in Pandas
