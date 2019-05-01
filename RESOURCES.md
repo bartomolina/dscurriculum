@@ -14,9 +14,16 @@ Naked Statistics: Stripping the Dread from the Data
 https://www.amazon.com/gp/product/039334777X
 
 ## Git
-https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
-https://www.udacity.com/course/how-to-use-git-and-github--ud775
-https://www.udacity.com/course/github-collaboration--ud456
+Atlassian: Learn Git with Bitbucket Cloud  
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud  
+
+Udacity: How to Use Git and GitHub  
+https://www.udacity.com/course/how-to-use-git-and-github--ud775  
+
+Udacity: GitHub & Collaboration  
+https://www.udacity.com/course/github-collaboration--ud456  
+
+Udacity: A Beginner’s Git and GitHub Tutorial  
 https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
 
 ## Twitter accounts
