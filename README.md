@@ -39,6 +39,9 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 - Data Visualization with Pandas, Visualizing High Dimensional Data (**Scatter Matrix / Parallel Plots**)
 
 
+Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-pt-041519.git - https://www.kaggle.com/c/boston-housing/data
+
+
 ## M1S4: Data Cleaning in Pandas
 
 
