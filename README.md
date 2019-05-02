@@ -31,6 +31,11 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 
 ## M1S3: Working with Pandas
 - Libraries
+- Importing Data in Pandas
+- Series and Dataframes
+- Accessing Data in Pandas
+- Statistical Methods in Pandas. **.apply() / .applymap()**
+- Customizing Visualizations with Matplotlib
 
 
 ## M1S4: Data Cleaning in Pandas
