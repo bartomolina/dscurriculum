@@ -36,6 +36,7 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 - Accessing Data in Pandas
 - Statistical Methods in Pandas. **.apply() / .applymap()**
 - Customizing Visualizations with Matplotlib
+- Data Visualization with Pandas, Visualizing High Dimensional Data (**Scatter Matrix / Parallel Plots**)
 
 
 ## M1S4: Data Cleaning in Pandas

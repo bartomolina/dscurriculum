@@ -49,3 +49,6 @@ https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e
 
 Beyond Interactive: Notebook Innovation at Netflix  
 https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
+
+Rescaling Data for Machine Learning in Python with Scikit-Learn
+https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/
