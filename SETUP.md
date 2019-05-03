@@ -2,6 +2,8 @@
 ## Setup
 - Install Anaconda
 - Install Git
+  - git config --global user.name "FIRST_NAME LAST_NAME"
+  - git config --global user.email "MY_NAME@example.com"
 - Clone environment repository:`git clone https://github.com/learn-co-curriculum/dsc-1-01-05-setting-up-environment`
 - Create environment
   - Mac: `conda env create -f environment.yml`
