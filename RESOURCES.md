@@ -14,6 +14,11 @@ https://www.kaggle.com
 PEP 8 -- Style Guide for Python Code  
 https://www.python.org/dev/peps/pep-0008/
 
+Hans Rosling  
+https://www.ted.com/speakers/hans_rosling
+https://www.gapminder.org/
+https://www.amazon.com/Factfulness-Reasons-World-Things-Better-ebook/dp/B0756J1LLV
+
 ## Books
 Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems  
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291  
