@@ -44,7 +44,8 @@ Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-p
 
 
 ## M1S4: Data Cleaning in Pandas
-
+- Lambda functions
+- Split, Apply and Combine data sets
 
 
 ## M1S5: SQL and Relational Databases

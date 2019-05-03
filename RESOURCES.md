@@ -1,5 +1,4 @@
 # Books, Links...
-
 4/15 Youtube playlist  
 https://www.youtube.com/playlist?list=PLVoXE6pv5LIg6Bnu5MAQ3xGu9DqdWXLRW  
 
@@ -11,6 +10,9 @@ https://drive.google.com/drive/folders/1P_x-zzPy0TCWHQSKsQCvm1iiknAOFHnY
 
 Kaggle  
 https://www.kaggle.com
+
+PEP 8 -- Style Guide for Python Code  
+https://www.python.org/dev/peps/pep-0008/
 
 ## Books
 Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems  
@@ -43,7 +45,6 @@ Netflix TechBlog
 https://medium.com/netflix-techblog
 
 ## Posts
-
 Python at Netflix  
 https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e  
 
