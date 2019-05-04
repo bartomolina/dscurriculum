@@ -30,3 +30,4 @@
 - `pip3 install matplotlib`
 - `pip install xlrd`
 - `pip install scipy`
+- `pip install sqlalchemy`
