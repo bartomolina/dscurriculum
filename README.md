@@ -48,6 +48,7 @@ Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-p
 - Split, Apply and Combine data sets (**.groupby()**). Types of joins
 - Accessing SQL DBs
 - Pivot Tables with Pandas. ****.stack() / .unstack() ****
+- Dealing with Missing Data
 
 
 ## M1S5: SQL and Relational Databases
