@@ -1,4 +1,4 @@
-# Books, Links...
+# DS Resources
 4/15 Youtube playlist  
 https://www.youtube.com/playlist?list=PLVoXE6pv5LIg6Bnu5MAQ3xGu9DqdWXLRW  
 
@@ -31,6 +31,9 @@ http://www.crackingthecodinginterview.com/
 
 Naked Statistics: Stripping the Dread from the Data  
 https://www.amazon.com/gp/product/039334777X
+
+Heard In Data Science Interviews  
+https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320
 
 ## Git
 Atlassian: Learn Git with Bitbucket Cloud  
