@@ -48,7 +48,11 @@ Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-p
 - Split, Apply and Combine data sets (**.groupby()**). Types of joins
 - Accessing SQL DBs
 - Pivot Tables with Pandas. ****.stack() / .unstack() ****
-- Dealing with Missing Data
+- Dealing with Missing Data (Remove / Replace / Keep)
+- Seaborn **.distplot()**
+
+
+Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-project-data-cleaning-online-ds-pt-041519
 
 
 ## M1S5: SQL and Relational Databases
@@ -63,7 +67,8 @@ Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-p
 - shift enter: run cell, select below
 - ctrl enter: run cell
 - alt enter: run cell, insert below
-- b: new cell
+- a: new cell above
+- b: new cell below
 - x: delete cell
 - z: undo delete cell
 - y: code cell

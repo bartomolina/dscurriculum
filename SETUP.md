@@ -31,3 +31,4 @@
 - `pip install xlrd`
 - `pip install scipy`
 - `pip install sqlalchemy`
+- `pip install seaborn`
