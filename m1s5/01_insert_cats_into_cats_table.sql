@@ -1,2 +1,2 @@
-INSERT INTO cats (name, age, breed) VALUES ("Lil\' Bub", 5, 'American Shorthair');
-INSERT INTO cats (name, age, breed) VALUES ('Hannah', 1, 'Tabby');
+INSERT INTO cats (name, age, breed, owner_id) VALUES ("Lil\' Bub", 5, 'American Shorthair', 2);
+INSERT INTO cats (name, age, breed, owner_id) VALUES ('Hannah', 1, 'Tabby', 2);
