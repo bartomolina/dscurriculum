@@ -38,6 +38,9 @@ https://www.amazon.com/gp/product/039334777X
 Heard In Data Science Interviews  
 https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320
 
+The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity  
+https://www.amazon.com/gp/product/1541773756
+
 ## Git
 Atlassian: Learn Git with Bitbucket Cloud  
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud  
