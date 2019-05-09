@@ -20,7 +20,8 @@ https://nbviewer.jupyter.org/
 Hans Rosling  
 https://www.ted.com/speakers/hans_rosling  
 https://www.gapminder.org/  
-https://www.amazon.com/Factfulness-Reasons-World-Things-Better-ebook/dp/B0756J1LLV
+https://www.amazon.com/Factfulness-Reasons-World-Things-Better-ebook/dp/B0756J1LLV  
+https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396
 
 ## Books
 Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems  
@@ -40,6 +41,14 @@ https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320
 
 The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity  
 https://www.amazon.com/gp/product/1541773756
+
+## UN
+
+WFP VAMPIRE  
+https://www.youtube.com/watch?v=NceFwKHnIXI
+
+United Nations Global Pulse  
+https://www.unglobalpulse.org/
 
 ## Git
 Atlassian: Learn Git with Bitbucket Cloud  
