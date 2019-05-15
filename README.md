@@ -57,6 +57,10 @@ Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-pro
 
 ## M1S5: SQL and Relational Databases
 - Connect to DB, CRUD, Read SQL from file
+- SQLite types: **TEXT, INTEGER, REAL, BLOB**
+- Filtering and Ordering: **ORDER BY, LIMIT, BETWEEN, NULL, COUNT, GROUP BY**
+- Table Relationships / Joins / Grouping
+- SQL with Pandas
 
 
 ## M1S6: Object Oriented Programming
