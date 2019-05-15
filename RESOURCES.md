@@ -77,5 +77,11 @@ https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e
 Beyond Interactive: Notebook Innovation at Netflix  
 https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 
-Rescaling Data for Machine Learning in Python with Scikit-Learn
+Rescaling Data for Machine Learning in Python with Scikit-Learn  
 https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/
+
+@decorators in Python  
+https://hackernoon.com/decorators-in-python-8fd0dce93c08
+
+Focus: The Ultimate Guide on How to Improve Focus and Concentration  
+https://jamesclear.com/focus
