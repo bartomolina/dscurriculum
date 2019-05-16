@@ -12,18 +12,17 @@ Flatiron Data Science Curriculum
 - Project - Macbeth
 
 
-Data Visualization Lab: https://github.com/learn-co-students/dsc-0-01-22-visualizing-data-lab-online-ds-pt-041519.git  
-Analyzing Macbeth: https://github.com/learn-co-students/dsc-0-01-23-project-lab-online-ds-pt-041519.git
+Data Visualization Lab: https://github.com/learn-co-students/dsc-0-01-22-visualizing-data-lab-online-ds-pt-041519  
+Analyzing Macbeth: https://github.com/learn-co-students/dsc-0-01-23-project-lab-online-ds-pt-041519
 
 
 ## M1S2: Importing and Statistical Analysis of Data
-- Python Operators, Loops, Functions
-- Measures Of Central Tendency: **mean**, **median**, **mode**
-- Measures Of Dispersion: **Absolute Deviation**, **Variance**, **Standard Deviation**
-  - Box Plots (**matplotlib.pyplot**)
-- Implementing Statistics with Functions
-- Python User Input / Output
-- Project - Calculator
+- Python operators, loops, functions
+- Measures of central tendency: **mean**, **median**, **mode**
+- Measures of dispersion: **Absolute Deviation**, **Variance**, **Standard Deviation**
+  - Box plots (**matplotlib.pyplot**)
+- Implementing statistics with functions
+- Python user input / Output
 
 
 Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-ds-pt-041519
@@ -31,24 +30,24 @@ Calculator: https://github.com/learn-co-students/dsc-1-02-19-project-lab-online-
 
 ## M1S3: Working with Pandas
 - Libraries
-- Importing Data in Pandas
+- Importing data in Pandas
 - Series and Dataframes
-- Accessing Data in Pandas
-- Statistical Methods in Pandas. **.apply() / .applymap()**
-- Customizing Visualizations with Matplotlib
-- Data Visualization with Pandas, Visualizing High Dimensional Data (**Scatter Matrix / Parallel Plots**)
+- Accessing data in Pandas
+- Statistical methods in Pandas. **.apply() / .applymap()**
+- Customizing visualizations with Matplotlib
+- Data visualization with Pandas, Visualizing high dimensional data (**Scatter Matrix / Parallel Plots**)
 - Correlation
 
 
-Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-pt-041519.git - https://www.kaggle.com/c/boston-housing/data
+Boston Housing Data: https://github.com/learn-co-students/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-pt-041519 - https://www.kaggle.com/c/boston-housing/data
 
 
 ## M1S4: Data Cleaning in Pandas
 - Lambda functions
-- Split, Apply and Combine data sets (**.groupby()**). Types of joins
+- Split, apply and combine data sets (**.groupby()**). Types of joins
 - Accessing SQL DBs
-- Pivot Tables with Pandas. ****.stack() / .unstack() ****
-- Dealing with Missing Data (Remove / Replace / Keep)
+- Pivot tables with Pandas. ****.stack() / .unstack() ****
+- Dealing with missing data (Remove / Replace / Keep)
 - Seaborn **.distplot()**
 
 
@@ -59,14 +58,18 @@ Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-pro
 - Connect to DB, CRUD, Read SQL from file
 - SQLite types: **TEXT, INTEGER, REAL, BLOB**
 - Filtering and Ordering: **ORDER BY, LIMIT, BETWEEN, NULL, COUNT, GROUP BY**
-- Table Relationships / Joins / Grouping
+- Table relationships / Joins / Grouping
 - SQL with Pandas
 
 
 ## M1S6: Object Oriented Programming
 
 
-## M1S7: Object Oriented Programming
+## M1S7: OOP Continued
+- Object initialization
+- Domain models
+
+Domain Models Lab: https://github.com/learn-co-students/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-pt-041519
 
 
 ## Jupyter Notebook cheatsheet
