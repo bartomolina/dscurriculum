@@ -66,6 +66,8 @@ Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-pro
 ## M1S6: Object Oriented Programming
 
 
+## M1S7: Object Oriented Programming
+
 
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
