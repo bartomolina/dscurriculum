@@ -75,6 +75,7 @@ Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-pro
 Domain Models Lab: https://github.com/learn-co-students/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-pt-041519
 Shopping Cart Lab: https://github.com/learn-co-students/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-pt-041519
 Inheritance - Lab: https://github.com/learn-co-students/dsc-1-07-10-inheritance-lab-online-ds-pt-041519
+Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-pt-041519
 
 
 ## Jupyter Notebook cheatsheet

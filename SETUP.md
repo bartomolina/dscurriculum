@@ -32,3 +32,4 @@
 - `pip install scipy`
 - `pip install sqlalchemy`
 - `pip install seaborn`
+- `pip install tqdm`
