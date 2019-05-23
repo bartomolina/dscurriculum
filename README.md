@@ -78,6 +78,10 @@ Inheritance - Lab: https://github.com/learn-co-students/dsc-1-07-10-inheritance-
 Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-pt-041519
 
 
+## M1S7: OOP Continued
+
+
+
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
 - ctrl enter: run cell
