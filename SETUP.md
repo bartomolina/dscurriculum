@@ -33,3 +33,11 @@
 - `pip install sqlalchemy`
 - `pip install seaborn`
 - `pip install tqdm`
+## Jupyter Notebook Extensions
+https://ndres.me/post/best-jupyter-notebook-extensions/
+- `pip install jupyter_contrib_nbextensions`
+- `jupyter contrib nbextension install --user`
+  - Collapsible Headings
+  - Codefolding / Codefolding in editor
+  - Scratchpad
+  - Variable inspector
