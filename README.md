@@ -79,7 +79,8 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 
 
 ## M1S8: NumPy
-
+- Broadcasting, initialize NumPy arrays, subsetting
+- Probability and Combinatronics: Sets
 
 
 ## Jupyter Notebook cheatsheet
