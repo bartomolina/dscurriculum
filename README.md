@@ -78,9 +78,10 @@ Inheritance - Lab: https://github.com/learn-co-students/dsc-1-07-10-inheritance-
 Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-pt-041519
 
 
-## M1S8: NumPy
+## M1S8: Numpy and Foundations of Probability and Combinatorics
 - Broadcasting, initialize NumPy arrays, subsetting
 - Probability and Combinatronics: Sets
+- Probability: Sample / Event spaces
 
 
 ## Jupyter Notebook cheatsheet
