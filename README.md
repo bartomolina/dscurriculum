@@ -81,7 +81,8 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 ## M1S8: Numpy and Foundations of Probability and Combinatorics
 - Broadcasting, initialize NumPy arrays, subsetting
 - Probability and Combinatronics: Sets
-- Probability: Sample / Event spaces
+- Probability: Sample / Event spaces. Probability space
+- Permutations. Factorials
 
 
 ## Jupyter Notebook cheatsheet
