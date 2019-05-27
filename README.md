@@ -83,6 +83,11 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Probability and Combinatronics: Sets
 - Probability: Sample / Event spaces. Probability space
 - Permutations. Factorials
+- Combinations
+- Bernoulli and binomial distribution
+
+## M1S9: Statistical Distributions
+
 
 
 ## Jupyter Notebook cheatsheet
