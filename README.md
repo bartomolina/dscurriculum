@@ -88,8 +88,8 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 
 ## M1S9: Statistical Distributions
 - Statistical distributions
-  - Discrete: **Probability Mass Function (PMF)** vs.
-  - continuous: **Probability Density Function (PDF)**
+  - Discrete: Probability Mass Function (**PMF**). Cumulative Density Function (**CDF**) vs.
+  - continuous: Probability Density Function (**PDF**)
 - Distributions with Stem & Leaf Plot
 - Class size paradox
 
