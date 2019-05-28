@@ -100,6 +100,14 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Statistical Testing with z-score and p-value. Hypotheses: Alternative Hypothesis (Ha) / Null Hypothesis (Ho)
 
 
+## M1S10: Introduction to Linear Regression
+- Covariance and correlation
+- Statistical leaning theory
+- Linear regression
+- Coefficient of determination
+
+
+
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
 - ctrl enter: run cell
