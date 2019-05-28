@@ -86,6 +86,7 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Combinations
 - Bernoulli and binomial distribution
 
+
 ## M1S9: Statistical Distributions
 - Statistical distributions
   - Discrete: Probability Mass Function (**PMF**). Cumulative Density Function (**CDF**) vs.
@@ -93,6 +94,9 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Distributions with Stem & Leaf Plot
 - Class size paradox
 - Probability density function: seaborn / histogram
+- Gaussian (normal) distribution. Standard normal distribution (mean=0, std=1)
+  - Standard score (z-score)
+- Skewness and Kurtosis
 
 
 ## Jupyter Notebook cheatsheet
@@ -106,6 +110,7 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - y: code cell
 - m: markdown cell
 - h: view shortcuts
+- ctrl /: comment lines
 
 
 ## Git cheatsheet
