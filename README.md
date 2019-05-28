@@ -97,6 +97,7 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Gaussian (normal) distribution. Standard normal distribution (mean=0, std=1)
   - Standard score (z-score)
 - Skewness and Kurtosis
+- Statistical Testing with z-score and p-value
 
 
 ## Jupyter Notebook cheatsheet
