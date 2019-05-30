@@ -103,7 +103,7 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 ## M1S10: Introduction to Linear Regression
 - Variance: Covariance and correlation
 - Statistical leaning theory
-- Linear regression
+- Linear regression. **least squares method**
 - Coefficient of determination
 
 
