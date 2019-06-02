@@ -105,6 +105,9 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 - Statistical leaning theory
 - Linear regression. **least squares method**
 - Coefficient of determination
+- Ordinary Least Squared (OLS) in statsmodels
+
+Ordinary Least Squares in Statsmodels: https://github.com/learn-co-students/dsc-01-10-12-ols-statsmodels-online-ds-pt-041519
 
 
 ## Jupyter Notebook cheatsheet
