@@ -117,7 +117,7 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 
 
 ## M1S11: Multiple Regression and Model Validation
-- 
+- Multiple linear regression
 
 
 ## Jupyter Notebook cheatsheet
