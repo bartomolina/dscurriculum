@@ -113,6 +113,11 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 
 Ordinary Least Squares in Statsmodels: https://github.com/learn-co-students/dsc-01-10-12-ols-statsmodels-online-ds-pt-041519
 Ordinary Least Squares in Statsmodels (OLS) - Lab: https://github.com/learn-co-students/dsc-01-10-13-regression-statsmodels-lab-online-ds-pt-041519
+Project: Regression Modeling with the Boston Housing dataset: https://github.com/learn-co-students/dsc-01-10-16-regression-EOD-Lab-online-ds-pt-041519
+
+
+## M1S11: Multiple Regression and Model Validation
+- 
 
 
 ## Jupyter Notebook cheatsheet
