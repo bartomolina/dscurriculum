@@ -72,9 +72,9 @@ Super Heroes Data Cleaning: https://github.com/learn-co-students/dsc-1-04-13-pro
 - Inheritance: **Superclasses / Subclasses**, **Abstraction, Polymorphism**
 - Object-oriented simulation
 
-Domain Models Lab: https://github.com/learn-co-students/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-pt-041519
-Shopping Cart Lab: https://github.com/learn-co-students/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-pt-041519
-Inheritance - Lab: https://github.com/learn-co-students/dsc-1-07-10-inheritance-lab-online-ds-pt-041519
+Domain Models Lab: https://github.com/learn-co-students/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-pt-041519  
+Shopping Cart Lab: https://github.com/learn-co-students/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-pt-041519  
+Inheritance - Lab: https://github.com/learn-co-students/dsc-1-07-10-inheritance-lab-online-ds-pt-041519  
 Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-pt-041519
 
 
@@ -111,8 +111,8 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
   - Normality check (Jarque-Bera test)
   - Heteroscadasticity (Goldfield-Quandt test - GQ)
 
-Ordinary Least Squares in Statsmodels: https://github.com/learn-co-students/dsc-01-10-12-ols-statsmodels-online-ds-pt-041519
-Ordinary Least Squares in Statsmodels (OLS) - Lab: https://github.com/learn-co-students/dsc-01-10-13-regression-statsmodels-lab-online-ds-pt-041519
+Ordinary Least Squares in Statsmodels: https://github.com/learn-co-students/dsc-01-10-12-ols-statsmodels-online-ds-pt-041519  
+Ordinary Least Squares in Statsmodels (OLS) - Lab: https://github.com/learn-co-students/dsc-01-10-13-regression-statsmodels-lab-online-ds-pt-041519  
 Project: Regression Modeling with the Boston Housing dataset: https://github.com/learn-co-students/dsc-01-10-16-regression-EOD-Lab-online-ds-pt-041519
 
 
