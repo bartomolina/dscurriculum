@@ -121,6 +121,12 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 - Categorical variables. Transform categorical variables (**Label encoding**, **Dummy variables / one-hot-encoding**)
   - **Binning**
 - Multicollinearity
+- Feature scaling and normalization
+  - Min-max scaling
+  - Standarization
+  - Mean normalization
+  - Unit vector transformation
+- Statsmodels for linear regression
 
 
 ## Jupyter Notebook cheatsheet
