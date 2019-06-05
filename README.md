@@ -118,6 +118,9 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 
 ## M1S11: Multiple Regression and Model Validation
 - Multiple linear regression
+- Categorical variables. Transform categorical variables (**Label encoding**, **Dummy variables / one-hot-encoding**)
+  - **Binning**
+- Multicollinearity
 
 
 ## Jupyter Notebook cheatsheet

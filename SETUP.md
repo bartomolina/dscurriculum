@@ -34,6 +34,7 @@
 - `pip install seaborn`
 - `pip install tqdm`
 - `pip install statsmodels`
+- `pip install sklearn`
 ## Jupyter Notebook Extensions
 https://ndres.me/post/best-jupyter-notebook-extensions/
 - `pip install jupyter_contrib_nbextensions`
