@@ -129,6 +129,11 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 - Statsmodels for linear regression
 
 
+## M1S12: A Complete Data Science Project Using Multiple Regression
+- DS processes: **CRISP-DM**, **KDD**, **OSEMN**
+- 
+
+
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
 - ctrl enter: run cell
