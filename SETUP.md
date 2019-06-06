@@ -43,3 +43,4 @@ https://ndres.me/post/best-jupyter-notebook-extensions/
   - Codefolding / Codefolding in editor
   - Scratchpad
   - Variable inspector
+  - ExecuteTime
