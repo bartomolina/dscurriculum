@@ -1,5 +1,4 @@
-# dscurriculum
-Flatiron Data Science Curriculum
+# Flatiron Data Science Bootcamp - Curriculum
 
 # M1: Exploratory Data Analysis and Descriptive Statistics
 ## M1S1: Getting Started with Data Science
@@ -101,9 +100,10 @@ Object-oriented simulation - Lab: https://github.com/learn-co-students/dsc-1-07-
 
 
 ## M1S10: Introduction to Linear Regression
-- Variance: Covariance and correlation
+- Variance: Covariance and Correlation [-1, 1]
 - Statistical leaning theory
-- Linear regression. **least squares method**
+  - Independent (features), Dependent (target) variables
+- Linear regression. **least squares method** (R2)
 - Coefficient of determination
 - Ordinary Least Squared (OLS) in statsmodels. Q-Q Plots
 - Regression diagnostics in statsmodels
