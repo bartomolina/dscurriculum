@@ -131,7 +131,10 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 
 ## M1S12: A Complete Data Science Project Using Multiple Regression
 - DS processes: **CRISP-DM**, **KDD**, **OSEMN**
-- 
+- Obtaining
+- Scrubbing
+- Exploring
+- Modelling
 
 
 ## Jupyter Notebook cheatsheet
