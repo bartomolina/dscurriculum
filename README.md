@@ -135,6 +135,9 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 - Scrubbing
 - Exploring
 - Modelling
+- Holdout validation
+
+Modeling Our Data - Lab: https://github.com/learn-co-students/dsc-1-12-11-modeling-our-data-lab-online-ds-pt-041519
 
 
 ## Jupyter Notebook cheatsheet
