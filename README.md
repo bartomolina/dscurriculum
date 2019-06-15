@@ -127,6 +127,8 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
   - Mean normalization
   - Unit vector transformation
 - Statsmodels for linear regression
+- Multiple linear regression with **Statsmodel** and **Scikit-Learn**
+
 
 
 ## M1S12: A Complete Data Science Project Using Multiple Regression
