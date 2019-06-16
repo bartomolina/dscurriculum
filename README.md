@@ -128,7 +128,12 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
   - Unit vector transformation
 - Statsmodels for linear regression
 - Multiple linear regression with **Statsmodel** and **Scikit-Learn**
-
+  - Model fit
+    - **stepwise** selection with p-values
+    - **RFE** Feature ranking with recursive feature elimination
+    - Forward selection using adjusted R-squared
+- Regression model validation: train-test-split: **(R)MSE**
+- Cross validation: **K-Fold Cross Validation** 
 
 
 ## M1S12: A Complete Data Science Project Using Multiple Regression

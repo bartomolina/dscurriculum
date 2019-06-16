@@ -46,3 +46,4 @@ https://ndres.me/post/best-jupyter-notebook-extensions/
   - Scratchpad
   - Variable inspector
   - ExecuteTime
+  - Freeze
