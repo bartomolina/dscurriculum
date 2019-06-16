@@ -37,6 +37,7 @@
 - `pip install sklearn`
 - `conda install shapely`
 - `pip install cartoframes`
+- `pip install -U python-dotenv`
 ## Jupyter Notebook Extensions
 https://ndres.me/post/best-jupyter-notebook-extensions/
 - `pip install jupyter_contrib_nbextensions`
