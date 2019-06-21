@@ -1,5 +1,3 @@
-# Flatiron Data Science Bootcamp - Curriculum
-
 # M1: Exploratory Data Analysis and Descriptive Statistics
 ## M1S1: Getting Started with Data Science
 - Data Science Problems
