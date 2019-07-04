@@ -1,4 +1,5 @@
 # M1: Exploratory Data Analysis and Descriptive Statistics
+
 ## M1S1: Getting Started with Data Science
 - Data Science Problems
 - The Data Science Process
@@ -143,24 +144,3 @@ Project: Regression Modeling with the Boston Housing dataset: https://github.com
 - Holdout validation
 
 Modeling Our Data - Lab: https://github.com/learn-co-students/dsc-1-12-11-modeling-our-data-lab-online-ds-pt-041519
-
-
-## Jupyter Notebook cheatsheet
-- shift enter: run cell, select below
-- ctrl enter: run cell
-- alt enter: run cell, insert below
-- a: new cell above
-- b: new cell below
-- x: delete cell
-- z: undo delete cell
-- y: code cell
-- m: markdown cell
-- h: view shortcuts
-- ctrl /: comment lines
-
-
-## Git cheatsheet
-- git clone URL
-- git commit -m MESSAGE
-- git push
-- git log
