@@ -6,7 +6,9 @@
 
 
 ## M2S12: Accessing Data through APIs
-
+- Client/Server model
+- HTTP Request/Response Cycle (**requests** library)
+- OAuth
 
 
 ## M2S13: HTML, CSS and Web Scraping
