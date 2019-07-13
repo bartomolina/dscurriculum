@@ -12,7 +12,7 @@
 
 
 ## M2S13: HTML, CSS and Web Scraping
-
+- HTML5 Semantic elements
 
 
 ## M2S15: Other Database structures
