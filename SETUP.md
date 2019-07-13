@@ -41,6 +41,7 @@
 - `pip install folium`
 - `pip install geojson`
 - `pip install bs4`
+- `pip install pillow`
 ## Jupyter Notebook Extensions
 https://ndres.me/post/best-jupyter-notebook-extensions/
 - `pip install jupyter_contrib_nbextensions`

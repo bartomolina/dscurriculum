@@ -14,7 +14,8 @@
 ## M2S13: HTML, CSS and Web Scraping
 - HTML5 Semantic elements
 - CSS
-- Web Scrapping
+- Web Scrapping (**BeautifulSoup**, **Scrapy**)
+- Scrapping images (**shutil**)
 
 
 ## M2S15: Other Database structures
