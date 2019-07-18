@@ -19,7 +19,10 @@
 
 
 ## M2S15: Other Database structures
-
+- NoSQL Databases:
+  - Document Stores (mongoDB, Couchbase)
+  - Key-Value Sotres and Column Stores (Amazon DynamoDB, Google BigTable)
+  - Graph Databases
 
 
 ## M2S16: Scraping and Storing your Data
