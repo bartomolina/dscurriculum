@@ -1,7 +1,8 @@
 # M3: Probability, Sampling and AB Testing
 
 ## M3S17: Combinatorics and Probability
-
+- Sets
+- Probability
 
 
 ## M3S18: Statistical Distributions
