@@ -42,6 +42,8 @@
 - `pip install geojson`
 - `pip install bs4`
 - `pip install pillow`
+- `conda install mongodb`
+- `pip install pymongo`
 ## Jupyter Notebook Extensions
 https://ndres.me/post/best-jupyter-notebook-extensions/
 - `pip install jupyter_contrib_nbextensions`

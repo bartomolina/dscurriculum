@@ -22,7 +22,9 @@
 - NoSQL Databases:
   - Document Stores (mongoDB, Couchbase)
   - Key-Value Sotres and Column Stores (Amazon DynamoDB, Google BigTable)
-  - Graph Databases
+  - Graph Databases (Neo4J, OrientDB)
+  - RDD (Resilient Distributed Dataset) (hadoop, spark): MapReduce
+- Installing and using MongoDB (**pymongo**)
 
 
 ## M2S16: Scraping and Storing your Data
