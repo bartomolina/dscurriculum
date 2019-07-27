@@ -12,6 +12,7 @@
 
 ## M3S18: Statistical Distributions
 - Probability mass function
+- Cumulative distribution function
 
 
 ## M3S19: Central Limit Theorem and Confidence Intervals
