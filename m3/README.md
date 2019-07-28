@@ -11,8 +11,12 @@
 
 
 ## M3S18: Statistical Distributions
-- Probability mass function
-- Cumulative distribution function
+- Discrete vs. Continuous
+- Probability mass function (PMF / **discrete**)
+- Probability density function (PDF / **continuous**)
+- Cumulative distribution function (CDF)
+- Normal distribution
+  - Standard normal distribution (0, 1)
 
 
 ## M3S19: Central Limit Theorem and Confidence Intervals
