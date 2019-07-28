@@ -16,7 +16,12 @@
 - Probability density function (PDF / **continuous**)
 - Cumulative distribution function (CDF)
 - Normal distribution
-  - Standard normal distribution (0, 1)
+  - Standard normal distribution (0, 1) - z-score
+- Statistical testing with z-score and p-value, significance threshold $\alpha$
+- Skewness and Kurtosis
+- Uniform distribution
+- Poisson distribution
+- Exponential distribution
 
 
 ## M3S19: Central Limit Theorem and Confidence Intervals
