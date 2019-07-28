@@ -25,5 +25,16 @@
 
 
 ## M3S19: Central Limit Theorem and Confidence Intervals
+- Sampling
+- Central limit theorem
 
 
+## M3S20: Hypothesis Testing
+
+
+
+## M3S21: Statistical Power and Anova
+
+
+
+## M3S22: AB Testing
