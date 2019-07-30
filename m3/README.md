@@ -28,7 +28,7 @@
 - Sampling
 - Central limit theorem
 - Standard error
-- Confidence intervals
+- Confidence intervals. **Sample distribution** vs. a **sampling distribution**
 
 
 ## M3S20: Hypothesis Testing
