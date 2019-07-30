@@ -29,10 +29,11 @@
 - Central limit theorem
 - Standard error
 - Confidence intervals. **Sample distribution** vs. a **sampling distribution**
+  - T distribution
 
 
 ## M3S20: Hypothesis Testing
-
+- Experimental design
 
 
 ## M3S21: Statistical Power and Anova
