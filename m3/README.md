@@ -27,6 +27,8 @@
 ## M3S19: Central Limit Theorem and Confidence Intervals
 - Sampling
 - Central limit theorem
+- Standard error
+- Confidence intervals
 
 
 ## M3S20: Hypothesis Testing
