@@ -30,11 +30,11 @@
 - Standard error
 - Confidence intervals. **Sample distribution** vs. a **sampling distribution**
   - T distribution
-  - P-values and null hypothesis
 
 
 ## M3S20: Hypothesis Testing
 - Experimental design
+- P-values and null hypothesis
 
 
 ## M3S21: Statistical Power and Anova
