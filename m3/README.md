@@ -35,6 +35,7 @@
 ## M3S20: Hypothesis Testing
 - Experimental design
 - P-values and null hypothesis
+- One sample T-Test
 
 
 ## M3S21: Statistical Power and Anova
