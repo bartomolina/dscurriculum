@@ -35,6 +35,7 @@
 ## M3S20: Hypothesis Testing
 - Experimental design
 - P-values and null hypothesis
+    - Is the P-value less than alpha value?
 - One sample T-Test
 
 
