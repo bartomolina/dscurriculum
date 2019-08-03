@@ -36,7 +36,7 @@
 - Experimental design
 - P-values and null hypothesis
     - Is the P-value less than alpha value?
-- One sample T-Test
+- Effect size
 
 
 ## M3S21: Statistical Power and Anova
