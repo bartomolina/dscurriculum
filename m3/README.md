@@ -37,6 +37,7 @@
 - P-values and null hypothesis
     - Is the P-value less than alpha value?
 - Effect size
+  - Un-standardized or Simple Effect Size Calculation
 
 
 ## M3S21: Statistical Power and Anova
