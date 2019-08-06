@@ -45,7 +45,8 @@
 
 
 ## M3S21: Statistical Power and Anova
-
+- Statistical power
+- Welch's T-test
 
 
 ## M3S22: AB Testing
