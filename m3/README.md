@@ -45,7 +45,7 @@
 
 
 ## M3S21: Statistical Power and Anova
-- Statistical power
+- Statistical power. Alpha value, effect size, sample size
 - Welch's T-test
 - ANOVA
 
