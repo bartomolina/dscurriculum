@@ -45,6 +45,9 @@ https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320
 The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity  
 https://www.amazon.com/gp/product/1541773756
 
+How to Lie with Statistics
+https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
+
 ## UN
 
 WFP VAMPIRE  
