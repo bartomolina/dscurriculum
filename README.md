@@ -26,6 +26,9 @@
 - M3S18: Statistical Distributions
 - M3S19: Central Limit Theorem and Confidence Intervals
 
+## M4: Statistical Modelling
+- M4S31: Working with Time Series Data
+
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
 - ctrl enter: run cell
