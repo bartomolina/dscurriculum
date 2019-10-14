@@ -28,6 +28,7 @@
 
 ## M4: Statistical Modelling
 - M4S31: Working with Time Series Data
+- M4S32: Time Series Modelling
 
 ## Jupyter Notebook cheatsheet
 - shift enter: run cell, select below
