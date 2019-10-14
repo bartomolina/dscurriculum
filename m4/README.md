@@ -17,6 +17,6 @@
 ## M4S32: Time Series Modelling
 - Basic models: **White Noise model**, **Random Walk model**
 - Correlation and autocorrelation: **ACF**, **PACF**
-- ARMA Models
+- ARMA Models: **Autoregressive**, **Moving average**
 - SARIMA Models
 - Facebook Prophet
