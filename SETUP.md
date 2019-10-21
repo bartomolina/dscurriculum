@@ -37,7 +37,7 @@
 - `pip install sklearn`
 - `conda install shapely`
 - `pip install cartoframes`
-- `pip install -U python-dotenv`
+- `conda install -c conda-forge python-dotenv`
 - `pip install folium`
 - `pip install geojson`
 - `pip install bs4`
