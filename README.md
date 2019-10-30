@@ -27,6 +27,9 @@
 - M3S19: Central Limit Theorem and Confidence Intervals
 
 ## M4: Statistical Modelling
+- M5S37: Principal Component Analysis
+
+## M5: Machine Learning and Big Data
 - M4S31: Working with Time Series Data
 - M4S32: Time Series Modelling
 
